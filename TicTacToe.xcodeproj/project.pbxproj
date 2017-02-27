@@ -12,7 +12,9 @@
 		1D9004881E6422C8002FCE28 /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 1D9004861E6422C8002FCE28 /* Main.storyboard */; };
 		1D90048A1E6422C8002FCE28 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 1D9004891E6422C8002FCE28 /* Assets.xcassets */; };
 		1D90048D1E6422C8002FCE28 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 1D90048B1E6422C8002FCE28 /* LaunchScreen.storyboard */; };
-		1D9004951E642306002FCE28 /* tictactoeimages in Resources */ = {isa = PBXBuildFile; fileRef = 1D9004941E642306002FCE28 /* tictactoeimages */; };
+		1D9004991E642937002FCE28 /* board.png in Resources */ = {isa = PBXBuildFile; fileRef = 1D9004961E642937002FCE28 /* board.png */; };
+		1D90049A1E642937002FCE28 /* cross.png in Resources */ = {isa = PBXBuildFile; fileRef = 1D9004971E642937002FCE28 /* cross.png */; };
+		1D90049B1E642937002FCE28 /* nought.png in Resources */ = {isa = PBXBuildFile; fileRef = 1D9004981E642937002FCE28 /* nought.png */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -23,7 +25,9 @@
 		1D9004891E6422C8002FCE28 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		1D90048C1E6422C8002FCE28 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		1D90048E1E6422C8002FCE28 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
-		1D9004941E642306002FCE28 /* tictactoeimages */ = {isa = PBXFileReference; lastKnownFileType = folder; path = tictactoeimages; sourceTree = "<group>"; };
+		1D9004961E642937002FCE28 /* board.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; name = board.png; path = tictactoeimages/board.png; sourceTree = "<group>"; };
+		1D9004971E642937002FCE28 /* cross.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; name = cross.png; path = tictactoeimages/cross.png; sourceTree = "<group>"; };
+		1D9004981E642937002FCE28 /* nought.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; name = nought.png; path = tictactoeimages/nought.png; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -58,8 +62,10 @@
 			children = (
 				1D9004821E6422C8002FCE28 /* AppDelegate.swift */,
 				1D9004841E6422C8002FCE28 /* ViewController.swift */,
+				1D9004961E642937002FCE28 /* board.png */,
+				1D9004971E642937002FCE28 /* cross.png */,
+				1D9004981E642937002FCE28 /* nought.png */,
 				1D9004861E6422C8002FCE28 /* Main.storyboard */,
-				1D9004941E642306002FCE28 /* tictactoeimages */,
 				1D9004891E6422C8002FCE28 /* Assets.xcassets */,
 				1D90048B1E6422C8002FCE28 /* LaunchScreen.storyboard */,
 				1D90048E1E6422C8002FCE28 /* Info.plist */,
@@ -126,9 +132,11 @@
 			isa = PBXResourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				1D90049B1E642937002FCE28 /* nought.png in Resources */,
+				1D90049A1E642937002FCE28 /* cross.png in Resources */,
 				1D90048D1E6422C8002FCE28 /* LaunchScreen.storyboard in Resources */,
-				1D9004951E642306002FCE28 /* tictactoeimages in Resources */,
 				1D90048A1E6422C8002FCE28 /* Assets.xcassets in Resources */,
+				1D9004991E642937002FCE28 /* board.png in Resources */,
 				1D9004881E6422C8002FCE28 /* Main.storyboard in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;

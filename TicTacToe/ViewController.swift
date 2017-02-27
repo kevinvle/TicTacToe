@@ -10,6 +10,31 @@ import UIKit
 
 class ViewController: UIViewController {
 
+    
+    
+    
+    @IBAction func buttonPressed(_ sender: AnyObject) { // Note I had to add "Object" after "Any". Reference: https://stackoverflow.com/questions/39606073/cant-drag-button-action-to-existing-function-in-xcode-8
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        print("ButtonPressed")
+    }
+    
+    
+    
+    
+    
+    
+    
+    
+    
     override func viewDidLoad() {
         super.viewDidLoad()
         // Do any additional setup after loading the view, typically from a nib.
