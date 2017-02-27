@@ -17,14 +17,17 @@ class ViewController: UIViewController {
         
         
         
+        sender.setImage(UIImage(named: "nought.png"), for: []) // Empty array to specify the default state
+        
+        
+        print(sender.tag)
         
         
         
         
         
         
-        
-        print("ButtonPressed")
+   
     }
     
     
