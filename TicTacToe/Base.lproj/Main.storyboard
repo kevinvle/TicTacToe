@@ -28,8 +28,8 @@
                                     <constraint firstAttribute="width" constant="375" id="wG7-bg-G5A"/>
                                 </constraints>
                             </imageView>
-                            <button opaque="NO" tag="6" contentMode="scaleToFill" contentHorizontalAlignment="center" contentVerticalAlignment="center" lineBreakMode="middleTruncation" translatesAutoresizingMaskIntoConstraints="NO" id="mgL-nl-yBY">
-                                <rect key="frame" x="254" y="297.5" width="74" height="73"/>
+                            <button opaque="NO" tag="6" contentMode="scaleToFill" misplaced="YES" contentHorizontalAlignment="center" contentVerticalAlignment="center" lineBreakMode="middleTruncation" translatesAutoresizingMaskIntoConstraints="NO" id="mgL-nl-yBY">
+                                <rect key="frame" x="254" y="294.5" width="74" height="73"/>
                                 <constraints>
                                     <constraint firstAttribute="height" constant="73" id="W2m-u4-Vsb"/>
                                     <constraint firstAttribute="width" constant="74" id="Zjf-1G-fXa"/>
@@ -62,7 +62,7 @@
                                 </connections>
                             </button>
                             <button opaque="NO" tag="3" contentMode="scaleToFill" contentHorizontalAlignment="center" contentVerticalAlignment="center" lineBreakMode="middleTruncation" translatesAutoresizingMaskIntoConstraints="NO" id="Qqa-1B-Kmi">
-                                <rect key="frame" x="254" y="178.5" width="74" height="73"/>
+                                <rect key="frame" x="254" y="178" width="74" height="73"/>
                                 <constraints>
                                     <constraint firstAttribute="width" constant="74" id="5GN-0f-gW2"/>
                                     <constraint firstAttribute="height" constant="73" id="yeh-Ji-JXY"/>
@@ -84,7 +84,7 @@
                                 </connections>
                             </button>
                             <button opaque="NO" tag="9" contentMode="scaleToFill" contentHorizontalAlignment="center" contentVerticalAlignment="center" lineBreakMode="middleTruncation" translatesAutoresizingMaskIntoConstraints="NO" id="WYF-uJ-9ya">
-                                <rect key="frame" x="254" y="415.5" width="74" height="73"/>
+                                <rect key="frame" x="254" y="415" width="74" height="73"/>
                                 <constraints>
                                     <constraint firstAttribute="height" constant="73" id="LP7-ay-6g7"/>
                                     <constraint firstAttribute="width" constant="74" id="uEp-pc-Af7"/>
