@@ -12,11 +12,9 @@ class ViewController: UIViewController {
 
     @IBOutlet var winnerLabel: UILabel!
     
-    @IBOutlet var playAgainButton: UIButton! // Button label will change 
-    
+    @IBOutlet var playAgainButton: UIButton! // Button label will change
     
     @IBAction func playAgain(_ sender: Any) { // Button Action
-        
         
     }
     
