@@ -40,7 +40,7 @@
                                 </connections>
                             </button>
                             <button opaque="NO" tag="5" contentMode="scaleToFill" contentHorizontalAlignment="center" contentVerticalAlignment="center" lineBreakMode="middleTruncation" translatesAutoresizingMaskIntoConstraints="NO" id="bdR-uW-7Oj">
-                                <rect key="frame" x="150.5" y="297" width="74" height="73"/>
+                                <rect key="frame" x="151" y="297" width="74" height="73"/>
                                 <constraints>
                                     <constraint firstAttribute="height" constant="73" id="GbX-QR-L8A"/>
                                     <constraint firstAttribute="width" constant="74" id="iUk-iz-KhN"/>
@@ -51,7 +51,7 @@
                                 </connections>
                             </button>
                             <button opaque="NO" tag="2" contentMode="scaleToFill" contentHorizontalAlignment="center" contentVerticalAlignment="center" lineBreakMode="middleTruncation" translatesAutoresizingMaskIntoConstraints="NO" id="0JK-F7-f1e">
-                                <rect key="frame" x="150.5" y="178" width="74" height="73"/>
+                                <rect key="frame" x="151" y="178" width="74" height="73"/>
                                 <constraints>
                                     <constraint firstAttribute="width" constant="74" id="tLY-Sb-jhU"/>
                                     <constraint firstAttribute="height" constant="73" id="uMh-oA-Z4K"/>
@@ -62,7 +62,7 @@
                                 </connections>
                             </button>
                             <button opaque="NO" tag="3" contentMode="scaleToFill" contentHorizontalAlignment="center" contentVerticalAlignment="center" lineBreakMode="middleTruncation" translatesAutoresizingMaskIntoConstraints="NO" id="Qqa-1B-Kmi">
-                                <rect key="frame" x="253.5" y="178" width="74" height="73"/>
+                                <rect key="frame" x="255" y="178" width="74" height="73"/>
                                 <constraints>
                                     <constraint firstAttribute="width" constant="74" id="5GN-0f-gW2"/>
                                     <constraint firstAttribute="height" constant="73" id="yeh-Ji-JXY"/>
@@ -73,7 +73,7 @@
                                 </connections>
                             </button>
                             <button opaque="NO" tag="8" contentMode="scaleToFill" contentHorizontalAlignment="center" contentVerticalAlignment="center" lineBreakMode="middleTruncation" translatesAutoresizingMaskIntoConstraints="NO" id="xlR-h8-QqL">
-                                <rect key="frame" x="150.5" y="415" width="74" height="73"/>
+                                <rect key="frame" x="151" y="415" width="74" height="73"/>
                                 <constraints>
                                     <constraint firstAttribute="height" constant="73" id="dCR-X0-JS1"/>
                                     <constraint firstAttribute="width" constant="74" id="sn7-5g-aml"/>
@@ -84,7 +84,7 @@
                                 </connections>
                             </button>
                             <button opaque="NO" tag="9" contentMode="scaleToFill" contentHorizontalAlignment="center" contentVerticalAlignment="center" lineBreakMode="middleTruncation" translatesAutoresizingMaskIntoConstraints="NO" id="WYF-uJ-9ya">
-                                <rect key="frame" x="253.5" y="415" width="74" height="73"/>
+                                <rect key="frame" x="255" y="415" width="74" height="73"/>
                                 <constraints>
                                     <constraint firstAttribute="height" constant="73" id="LP7-ay-6g7"/>
                                     <constraint firstAttribute="width" constant="74" id="uEp-pc-Af7"/>
@@ -95,7 +95,7 @@
                                 </connections>
                             </button>
                             <button opaque="NO" tag="7" contentMode="scaleToFill" contentHorizontalAlignment="center" contentVerticalAlignment="center" lineBreakMode="middleTruncation" translatesAutoresizingMaskIntoConstraints="NO" id="HSP-Wi-iBB">
-                                <rect key="frame" x="40.5" y="415" width="74" height="73"/>
+                                <rect key="frame" x="42" y="415" width="74" height="73"/>
                                 <constraints>
                                     <constraint firstAttribute="width" constant="74" id="87r-cx-GWd"/>
                                     <constraint firstAttribute="height" constant="73" id="En9-6S-44s"/>
@@ -106,7 +106,7 @@
                                 </connections>
                             </button>
                             <button opaque="NO" tag="4" contentMode="scaleToFill" contentHorizontalAlignment="center" contentVerticalAlignment="center" lineBreakMode="middleTruncation" translatesAutoresizingMaskIntoConstraints="NO" id="kpD-g9-76V">
-                                <rect key="frame" x="40.5" y="297" width="74" height="73"/>
+                                <rect key="frame" x="42" y="297" width="74" height="73"/>
                                 <constraints>
                                     <constraint firstAttribute="height" constant="73" id="CJA-6H-hif"/>
                                     <constraint firstAttribute="width" constant="74" id="TbU-Wt-lQu"/>
@@ -117,7 +117,7 @@
                                 </connections>
                             </button>
                             <button opaque="NO" tag="1" contentMode="scaleToFill" contentHorizontalAlignment="center" contentVerticalAlignment="center" lineBreakMode="middleTruncation" translatesAutoresizingMaskIntoConstraints="NO" id="KyR-iM-Vad">
-                                <rect key="frame" x="40.5" y="178" width="74" height="73"/>
+                                <rect key="frame" x="42" y="178" width="74" height="73"/>
                                 <constraints>
                                     <constraint firstAttribute="width" constant="74" id="DoH-vb-L6h"/>
                                     <constraint firstAttribute="height" constant="73" id="jUp-5C-vOR"/>
@@ -128,7 +128,7 @@
                                 </connections>
                             </button>
                             <label opaque="NO" userInteractionEnabled="NO" contentMode="left" horizontalHuggingPriority="251" verticalHuggingPriority="251" text="Nought has Won!" textAlignment="natural" lineBreakMode="tailTruncation" baselineAdjustment="alignBaselines" adjustsFontSizeToFit="NO" translatesAutoresizingMaskIntoConstraints="NO" id="5Y6-fa-Ljm">
-                                <rect key="frame" x="65.5" y="302.5" width="244" height="62"/>
+                                <rect key="frame" x="66" y="303" width="244" height="62"/>
                                 <constraints>
                                     <constraint firstAttribute="height" constant="62" id="NS4-n7-3aJ"/>
                                     <constraint firstAttribute="width" constant="244" id="gG2-pH-3bX"/>
@@ -137,23 +137,17 @@
                                 <color key="textColor" red="0.1462561654287966" green="1" blue="0.17756637268301001" alpha="1" colorSpace="custom" customColorSpace="sRGB"/>
                                 <nil key="highlightedColor"/>
                             </label>
-                            <button opaque="NO" contentMode="scaleToFill" contentHorizontalAlignment="center" contentVerticalAlignment="center" buttonType="roundedRect" lineBreakMode="middleTruncation" translatesAutoresizingMaskIntoConstraints="NO" id="HkY-OV-BBQ">
-                                <rect key="frame" x="152" y="360" width="71" height="30"/>
-                                <constraints>
-                                    <constraint firstAttribute="height" constant="30" id="Wyy-I8-Xv6"/>
-                                    <constraint firstAttribute="width" constant="71" id="gzo-nb-yz8"/>
-                                </constraints>
+                            <button opaque="NO" contentMode="scaleToFill" fixedFrame="YES" contentHorizontalAlignment="center" contentVerticalAlignment="center" buttonType="roundedRect" lineBreakMode="middleTruncation" translatesAutoresizingMaskIntoConstraints="NO" id="LMJ-QA-cKq">
+                                <rect key="frame" x="153" y="355" width="71" height="30"/>
+                                <autoresizingMask key="autoresizingMask" flexibleMaxX="YES" flexibleMaxY="YES"/>
                                 <state key="normal" title="Play Again"/>
                                 <connections>
-                                    <action selector="playAgain:" destination="BYZ-38-t0r" eventType="touchUpInside" id="f7p-gh-Y6w"/>
+                                    <action selector="playAgain:" destination="BYZ-38-t0r" eventType="touchUpInside" id="pIX-pM-ITo"/>
                                 </connections>
                             </button>
                         </subviews>
                         <color key="backgroundColor" red="1" green="1" blue="1" alpha="1" colorSpace="custom" customColorSpace="sRGB"/>
                         <constraints>
-                            <constraint firstItem="HkY-OV-BBQ" firstAttribute="centerY" secondItem="8bC-Xf-vdC" secondAttribute="centerY" id="2hQ-bq-417"/>
-                            <constraint firstItem="HkY-OV-BBQ" firstAttribute="top" secondItem="0JK-F7-f1e" secondAttribute="bottom" constant="109" id="2m1-Ik-Bjf"/>
-                            <constraint firstItem="HkY-OV-BBQ" firstAttribute="centerX" secondItem="8bC-Xf-vdC" secondAttribute="centerX" id="4gV-wC-B13"/>
                             <constraint firstItem="kpD-g9-76V" firstAttribute="centerY" secondItem="8bC-Xf-vdC" secondAttribute="centerY" id="9Gj-CM-UlV"/>
                             <constraint firstItem="xlR-h8-QqL" firstAttribute="leading" secondItem="HSP-Wi-iBB" secondAttribute="trailing" constant="35.5" id="9g2-W6-x7c"/>
                             <constraint firstItem="kpD-g9-76V" firstAttribute="top" secondItem="KyR-iM-Vad" secondAttribute="bottom" constant="46" id="Dp1-A3-6yN"/>
@@ -179,8 +173,8 @@
                         </constraints>
                     </view>
                     <connections>
-                        <outlet property="playAgainButton" destination="HkY-OV-BBQ" id="Scy-pH-T6e"/>
-                        <outlet property="winnerLabel" destination="5Y6-fa-Ljm" id="H9f-Zg-VZ1"/>
+                        <outlet property="playAgainButton" destination="LMJ-QA-cKq" id="cDN-3Q-ngG"/>
+                        <outlet property="winnerLabel" destination="5Y6-fa-Ljm" id="qbS-t5-W4G"/>
                     </connections>
                 </viewController>
                 <placeholder placeholderIdentifier="IBFirstResponder" id="dkx-z0-nzr" sceneMemberID="firstResponder"/>
